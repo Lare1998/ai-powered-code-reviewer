@@ -53,3 +53,5 @@ Activity on 2023-02-15 00:00:00 - style: Remove redundant comments
 Activity on 2023-02-16 00:00:00 - refactor: Use context managers
 Activity on 2023-02-16 00:00:00 - ci: Integrate with SonarQube
 Activity on 2023-02-16 00:00:00 - ci: Configure GitHub Actions for automated testing
+Activity on 2023-02-17 00:00:00 - test: Mock external API calls in tests
+Activity on 2023-02-17 00:00:00 - style: Use f-strings for formatting
