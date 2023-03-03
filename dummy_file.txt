@@ -3577,3 +3577,7 @@ Commit 91 on 2023-03-01 00:00:00 - style: Use f-strings for formatting
 Commit 92 on 2023-03-01 00:00:00 - build: Fix Dockerfile issues
 Commit 93 on 2023-03-01 00:00:00 - chore: Update copyright year
 Commit 94 on 2023-03-02 00:00:00 - chore: Migrate to new hosting provider
+Commit 95 on 2023-03-03 00:00:00 - fix: Handle null pointer exceptions
+Commit 96 on 2023-03-03 00:00:00 - ci: Integrate with SonarQube
+Commit 97 on 2023-03-03 00:00:00 - build: Update CI/CD pipeline configuration
+Commit 98 on 2023-03-03 00:00:00 - feat: Introduce dark mode theme
