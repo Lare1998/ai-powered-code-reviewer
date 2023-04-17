@@ -129,3 +129,4 @@ Activity on 2023-04-12 00:00:00 - build: Set up pre-commit hooks
 Activity on 2023-04-14 00:00:00 - style: Use black for formatting
 Activity on 2023-04-14 00:00:00 - feat: Implement pagination for results
 Activity on 2023-04-14 00:00:00 - ci: Add end-to-end testing framework
+Activity on 2023-04-17 00:00:00 - test: Mock external API calls in tests
