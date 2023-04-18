@@ -3659,3 +3659,5 @@ Commit 173 on 2023-04-14 00:00:00 - docs: Create quick start guide
 Commit 174 on 2023-04-17 00:00:00 - refactor: Simplify conditional statements
 Commit 175 on 2023-04-17 00:00:00 - fix: Correct timezone handling
 Commit 176 on 2023-04-17 00:00:00 - docs: Update README with installation instructions
+Commit 177 on 2023-04-18 00:00:00 - style: Use f-strings for formatting
+Commit 178 on 2023-04-18 00:00:00 - build: Fix Dockerfile issues
