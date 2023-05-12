@@ -164,3 +164,4 @@ Activity on 2023-05-10 00:00:00 - ci: Add end-to-end testing framework
 Activity on 2023-05-10 00:00:00 - chore: Upgrade Python version
 Activity on 2023-05-11 00:00:00 - refactor: Improve code readability and structure
 Activity on 2023-05-11 00:00:00 - ci: Add linting to pre-commit hooks
+Activity on 2023-05-12 00:00:00 - style: Standardize error messages
