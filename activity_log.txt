@@ -179,3 +179,4 @@ Activity on 2023-05-22 00:00:00 - docs: Add FAQ section
 Activity on 2023-05-23 00:00:00 - docs: Generate Sphinx documentation
 Activity on 2023-05-24 00:00:00 - docs: Add FAQ section
 Activity on 2023-05-24 00:00:00 - style: Format code according to PEP8 guidelines
+Activity on 2023-05-25 00:00:00 - docs: Update README with installation instructions
