@@ -3305,3 +3305,4 @@ Commit 84 on 2023-06-08 12:37:51 - build: Automate documentation generation
 Commit 85 on 2023-06-08 12:37:51 - fix: Address memory leaks
 Commit 86 on 2023-06-12 12:37:51 - docs: Add contribution guidelines
 Commit 87 on 2023-06-12 12:37:51 - build: Set up cross-compilation
+Commit 88 on 2023-06-14 12:37:51 - docs: Create quick start guide
