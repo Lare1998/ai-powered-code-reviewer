@@ -3386,3 +3386,5 @@ Commit 165 on 2023-07-27 12:37:51 - perf: Reduce bundle size
 Commit 166 on 2023-07-28 12:37:51 - feat: Add search functionality
 Commit 167 on 2023-07-28 12:37:51 - style: Use black for formatting
 Commit 168 on 2023-07-31 12:37:51 - ci: Add code coverage reporting
+Commit 169 on 2023-08-02 12:37:51 - chore: Migrate to new hosting provider
+Commit 170 on 2023-08-02 12:37:51 - fix: Address security vulnerabilities
