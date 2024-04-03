@@ -2006,3 +2006,6 @@ Activity on 2024-03-29 00:00:00 - docs: Improve inline comments
 Activity on 2024-04-01 00:00:00 - test: Test error handling paths
 Activity on 2024-04-01 00:00:00 - style: Use f-strings for formatting
 Activity on 2024-04-02 00:00:00 - docs: Add troubleshooting guide
+Activity on 2024-04-03 00:00:00 - docs: Add troubleshooting guide
+Activity on 2024-04-03 00:00:00 - fix: Correct timezone handling
+Activity on 2024-04-03 00:00:00 - fix: Correct off-by-one errors
