@@ -594,3 +594,5 @@ Activity on 2024-05-02 00:00:00 - refactor: Improve logging mechanism
 Activity on 2024-05-07 00:00:00 - docs: Create quick start guide
 Activity on 2024-05-07 00:00:00 - feat: Implement user roles and permissions
 Activity on 2024-05-08 00:00:00 - docs: Improve inline comments
+Activity on 2024-05-09 00:00:00 - docs: Improve inline comments
+Activity on 2024-05-09 00:00:00 - build: Optimize image sizes
