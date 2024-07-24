@@ -2132,3 +2132,5 @@ Activity on 2024-07-22 00:00:00 - feat: Add internationalization support
 Activity on 2024-07-22 00:00:00 - style: Enforce maximum line length
 Activity on 2024-07-23 00:00:00 - ci: Add linting to pre-commit hooks
 Activity on 2024-07-23 00:00:00 - perf: Reduce memory footprint of data structures
+Activity on 2024-07-24 00:00:00 - ci: Add code coverage reporting
+Activity on 2024-07-24 00:00:00 - docs: Add FAQ section
