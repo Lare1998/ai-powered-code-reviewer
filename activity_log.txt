@@ -953,3 +953,6 @@ Activity on 2025-02-25 00:00:00 - docs: Create quick start guide
 Activity on 2025-02-26 00:00:00 - docs: Create architectural overview
 Activity on 2025-02-26 00:00:00 - perf: Reduce network requests
 Activity on 2025-02-27 00:00:00 - style: Standardize error messages
+Activity on 2025-02-28 00:00:00 - docs: Update README with installation instructions
+Activity on 2025-02-28 00:00:00 - test: Use fixtures for test data
+Activity on 2025-02-28 00:00:00 - ci: Add vulnerability scanning
