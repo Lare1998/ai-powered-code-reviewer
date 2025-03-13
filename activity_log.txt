@@ -2387,3 +2387,5 @@ Activity on 2025-03-06 00:00:00 - fix: Address memory leaks
 Activity on 2025-03-06 00:00:00 - chore: Upgrade Python version
 Activity on 2025-03-11 00:00:00 - style: Standardize error messages
 Activity on 2025-03-12 00:00:00 - chore: Clean up unused files and resources
+Activity on 2025-03-13 00:00:00 - docs: Add troubleshooting guide
+Activity on 2025-03-13 00:00:00 - docs: Add FAQ section
