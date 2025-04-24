@@ -2435,3 +2435,6 @@ Activity on 2025-04-21 00:00:00 - fix: Handle null pointer exceptions
 Activity on 2025-04-21 00:00:00 - chore: Update license information
 Activity on 2025-04-21 00:00:00 - chore: Update CI/CD runners
 Activity on 2025-04-23 00:00:00 - refactor: Remove redundant code
+Activity on 2025-04-24 00:00:00 - chore: Configure environment variables
+Activity on 2025-04-24 00:00:00 - feat: Introduce dark mode theme
+Activity on 2025-04-24 00:00:00 - chore: Update license information
