@@ -1308,3 +1308,5 @@ Activity on 2025-11-27 00:00:00 - feat: Add real-time notifications
 Activity on 2025-11-27 00:00:00 - ci: Integrate with SonarQube
 Activity on 2025-11-28 00:00:00 - style: Use f-strings for formatting
 Activity on 2025-11-28 00:00:00 - refactor: Improve code readability and structure
+Activity on 2025-12-01 00:00:00 - fix: Address security vulnerabilities
+Activity on 2025-12-01 00:00:00 - build: Update compiler flags
