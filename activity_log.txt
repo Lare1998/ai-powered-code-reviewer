@@ -2729,3 +2729,6 @@ Activity on 2025-11-28 00:00:00 - ci: Add performance benchmarks
 Activity on 2025-11-28 00:00:00 - perf: Implement lazy loading
 Activity on 2025-11-28 00:00:00 - chore: Configure environment variables
 Activity on 2025-12-01 00:00:00 - style: Standardize error messages
+Activity on 2025-12-02 00:00:00 - ci: Integrate with SonarQube
+Activity on 2025-12-02 00:00:00 - docs: Create architectural overview
+Activity on 2025-12-02 00:00:00 - docs: Create architectural overview
